@@ -1,0 +1,12 @@
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.vbproj.AssemblyReference.cache
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.Form1.resources
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.Resources.resources
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.vbproj.GenerateResource.cache
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\bin\Debug\DecimalBinaryConverter.exe.config
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\bin\Debug\DecimalBinaryConverter.exe
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\bin\Debug\DecimalBinaryConverter.pdb
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\bin\Debug\DecimalBinaryConverter.xml
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.exe
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.xml
+C:\Users\Michael\OneDrive - Nova Scotia Community College\Desktop\DecimalBinaryConverter\obj\Debug\DecimalBinaryConverter.pdb
